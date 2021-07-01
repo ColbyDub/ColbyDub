@@ -1,0 +1,5 @@
+- Hi, I’m @ColbyDub
+- I'm interested in software development, security, and machine learning. I'm very interested in learning to code smart contracts for cryptocurrencies.
+- I’m currently learning javascript with nodejs for backend development. In my free time I enjoy learning about cryptocurrencies and blockchain.
+- In the future I hope to learn how to code in solidity and haskell. 
+- The next projects I'm looking forward to: setting up a bitcoin full node and learning react + nodejs for a full stack project.
